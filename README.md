@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on Web Developer, Android Developer.
 - 🌱 I’m currently learning Typescript, CSS, Vue, Nodejs.
 
-![SharerMax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharerMax&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharerMax)
+### GitHub stats
+![SharerMax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharerMax&show_icons=true&theme=github_dark)
+
+### Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharerMax&theme=github_dark)
 
